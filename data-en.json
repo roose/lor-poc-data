@@ -1,0 +1,267 @@
+[
+  {
+    "title": "Adaptatron-3000",
+    "text": "Card shop (turrets)",
+    "cards": []
+  },
+  {
+    "title": "Crimson Aristocrat",
+    "text": "Buy [Round End: deal 1 to me and grant me +2|+0] for a unit (-1 HP), (repeatable, cost doubles)",
+    "cards": []
+  },
+  {
+    "title": "Arena Kingpin",
+    "text": "Buy power for 500 gold: Round Start: Grant a random item to a card in hand or Sell a follower for 200 gold",
+    "cards": []
+  },
+  {
+    "title": "The Rekindler",
+    "text": "Buy a revive token for 100 gold",
+    "cards": []
+  },
+  {
+    "title": "Slotbot",
+    "text": "Buy a re-roll token for 30 gold(repeatable, cost doubles)",
+    "cards": []
+  },
+  {
+    "title": "Slaughter Docks",
+    "text": "Card shop with normal/epic items",
+    "cards": []
+  },
+  {
+    "title": "Mechanized Mimic",
+    "text": "Card shop with epic items",
+    "cards": []
+  },
+  {
+    "title": "Monastery of Hirana",
+    "text": "Heal 25% or Cut a card or Add [Quick Attack] to a unit",
+    "cards": []
+  },
+  {
+    "title": "Solitary Monk",
+    "text": "Cut all copies of a card",
+    "cards": []
+  },
+  {
+    "title": "Laurent Bladekeeper",
+    "text": "Card shop (weapon-themed spells) with a random rare item",
+    "cards": []
+  },
+  {
+    "title": "Honored Lord",
+    "text": "Choose a rare item for your champion",
+    "cards": []
+  },
+  {
+    "title": "Practical Perfectionist",
+    "text": "Create 3 copies of a card or Add two copies of [Counterfeit Copies] with a random item",
+    "cards": [
+      {"name": "Counterfeit Copies", "set": "1", "id": "01PZ046"}
+    ]
+  },
+  {
+    "title": "Used Cask Salesman",
+    "text": "Sell all copies of a card from your deck(rarity and upgrades affect cost)",
+    "cards": []
+  },
+  {
+    "title": "Incisive Tactician",
+    "text": " Upgrade a power to a power of higher rarity or Add a Ever Onward",
+    "cards": [
+      {"name": "Ever Onward", "set": "lab", "id": "99NX011"}
+    ]
+  },
+  {
+    "title": "Citrus Courier",
+    "text": "Heal for 50% max HP or Select a card with a healing item",
+    "cards": []
+  },
+  {
+    "title": "Mind Meld",
+    "text": "Choose a card and cut all copies for health",
+    "cards": []
+  },
+  {
+    "title": "Salvage",
+    "text": "Card shop for health",
+    "cards": []
+  },
+  {
+    "title": "Smooth Soloist",
+    "text": "Buy a power(common - 200, rare - 300, epic - 400 or legendary - 500)",
+    "cards": []
+  },
+  {
+    "title": "Silent Shadowseer",
+    "text": "Pay health to add[+3|+3, ephemeral](repeatable, cost increases)",
+    "cards": []
+  },
+  {
+    "title": "Ethereal Remitter",
+    "text": "Add a double-edged power ",
+    "cards": []
+  },
+  {
+    "title": "Arena Mechacaster",
+    "text": "Card shop (mecha-yordles)",
+    "cards": []
+  },
+  {
+    "title": "Grave Physician",
+    "text": "Add a Risen/Reborn with a random item or [Salt And Stitches] with a random rare item",
+    "cards": [
+      {"name": "Salt And Stitches", "set": "5", "id": "05NX003"}
+    ]
+  },
+  {
+    "title": "Young Witch",
+    "text": "Shop for spells with items",
+    "cards": []
+  },
+  {
+    "title": "The Grand Plaza",
+    "text": "Add challenger to a unit or 4[Dauntless Vanguard] with item or one of [Remembrance]/[For The Fallen]/[Dawnspeakers] with item",
+    "cards": [
+      {"name": "Dauntless Vanguard", "set": "1", "id": "01DE016"},
+      {"name": "Remembrance", "set": "1", "id": "01DE033"},
+      {"name": "For The Fallen", "set": "3", "id": "03DE012"},
+      {"name": "Dawnspeakers", "set": "1", "id": "01DE031"}
+    ]
+  },
+  {
+    "title": "Chamber of Renewal",
+    "text": "Add spellshield to a champion or Add [Chamber of Renewal] with item",
+    "cards": [
+      {"name": "Chamber of Renewal", "set": "6", "id": "06SH036"}
+    ]
+  },
+  {
+    "title": "Fae Guide",
+    "text": "Add elusive to a card",
+    "cards": []
+  },
+  {
+    "title": "Boxtopus",
+    "text": "Buy a [Dust Up Diplomacy] with item for health",
+    "cards": [
+      {"name": "Dust Up Diplomacy", "set": "lab", "id": "99BW002"}
+    ]
+  },
+  {
+    "title": "Thrashing Snapper",
+    "text": "Add a [Thrashing Snapper]/[Scalled Snapper] with a random rare item",
+    "cards": [
+      {"name": "Thrashing Snapper", "set": "4", "id": "04NX019"},
+      {"name": "Scalled Snapper", "set": "1", "id": "01IO028"}
+    ]
+  },
+  {
+    "title": "Scribe of Sorrows",
+    "text": "Buy one of the following powers (starting at 75 gold) (repeatable, cost doubles)",
+    "cards": []
+  },
+  {
+    "title": "Fallen Feline",
+    "text": "Add 2 copies of a token card",
+    "cards": []
+  },
+  {
+    "title": "Mageseeker Investigator",
+    "text": "Add power Mageseeker's Clearance(Your spells are Fleeting. When you play a spell that isn't Final Spark, create a Final Spark in hand) or Add [Detain] with a random item",
+    "cards": [
+      {"name": "Detain", "set": "1", "id": "01DE025"}
+    ]
+  },
+  {
+    "title": "Reaver's Row",
+    "text": "Buy 1 cost cards with items",
+    "cards": []
+  },
+  {
+    "title": "Blossoming Blade",
+    "text": "Add Play: I start a free attack to a unit",
+    "cards": []
+  },
+  {
+    "title": "Avatar of the Tides",
+    "text": "Add a epic power or Add an epic item to a champion or Get 300 gold",
+    "cards": []
+  },
+  {
+    "title": "Bayou Brunch",
+    "text": "Add an item to Tahm Kench or a unit",
+    "cards": []
+  },
+  {
+    "title": "Claws of the Dragon",
+    "text": "Add an epic item to a spell",
+    "cards": []
+  },
+  {
+    "title": "Defective Swapbot",
+    "text": "Buy 3 re-roll tokens for 80 gold",
+    "cards": []
+  },
+  {
+    "title": "Dreg Dredgers",
+    "text": "Buy cards with negative items",
+    "cards": []
+  },
+  {
+    "title": "Island Navigator",
+    "text": "Add scout item to a unit",
+    "cards": []
+  },
+  {
+    "title": "The Loose Cannon",
+    "text": "Add to Jinx: When I'm summoned, create a [The Loose Cannon] in hand ",
+    "cards": [
+      {"name": "The Loose Cannon", "set": "lab", "id": "99PZ124"}
+    ]
+  },
+  {
+    "title": "The Piltover Enforcer",
+    "text": "Add to Vi: When I'm summoned, create a [The Piltover Enforcer] in hand",
+    "cards": [
+      {"name": "The Piltover Enforcer", "set": "lab", "id": "99PZ131"}
+    ]
+  },
+  {
+    "title": "Poros!",
+    "text": "Buy a poro with item or Buy power: Round Start: Summon a random 1-cost poro for 400 gold",
+    "cards": []
+  },
+  {
+    "title": "Slight of Hand",
+    "text": "Buy When I'm summoned, draw 1 for a unit for 10 gold",
+    "cards": []
+  },
+  {
+    "title": "The Syren",
+    "text": "Add a The Syren with item: -2 mana or elusive or capture",
+    "cards": [
+      {"name": "The Syren", "set": "2", "id": "02BW015"}
+    ]
+  },
+  {
+    "title": "Tasty Faefolk",
+    "text": "Get +5 current and max HP or Add 2 [Tasty Faefolk] with item",
+    "cards": [
+      {"name": "Tasty Faefolk", "set": "3", "id": "03IO009"}
+    ]
+  },
+  {
+    "title": "Yone, Windchaser",
+    "text": "Card shop with random item",
+    "cards": []
+  },
+  {
+    "title": "War Chefs",
+    "text": "Heal 50% or Add a [Healing Balm] with item",
+    "cards": [
+      {"name": "Healing Balm", "set": "lab", "id": "99DE002"}
+    ]
+  }
+]
