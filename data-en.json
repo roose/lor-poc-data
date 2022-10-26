@@ -263,5 +263,12 @@
     "cards": [
       {"name": "Healing Balm", "set": "lab", "id": "99DE002"}
     ]
+  },
+  {
+    "title": "Stilted Robemaker",
+    "text": "Buy 1 [Darkness] card or other cards related to [Darkness] card, (repeatable, cost doubles)",
+    "cards": [
+      {"name": "Darkness", "set": "5", "id": "05SI029"}
+    ]
   }
 ]
