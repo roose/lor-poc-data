@@ -270,5 +270,10 @@
     "cards": [
       {"name": "Darkness", "set": "5", "id": "05SI029"}
     ]
+  },
+  {
+    "title": "Jack, the Winner",
+    "text": "Buy power for 7 hp",
+    "cards": []
   }
 ]
