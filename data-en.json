@@ -275,5 +275,19 @@
     "title": "Jack, the Winner",
     "text": "Buy power for 7 hp",
     "cards": []
+  },
+  {
+    "title": "Zaunite Urchin",
+    "text": "Buy power: Game Start: draw 2 for 100 gold or Buy a Zaunite Urchin with item for 60 gold",
+    "cards": [
+      {"name": "Zaunite Urchin", "set": "1", "id": "01PZ045"}
+    ]
+  },
+  {
+    "title": "Chump Whump",
+    "text": "Add 2 copies of [Poison Puffcap] with item",
+    "cards": [
+      {"name": "Poison Puffcap", "set": "1", "id": "01PZ022"}
+    ]
   }
 ]
