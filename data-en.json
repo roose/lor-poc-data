@@ -289,5 +289,12 @@
     "cards": [
       {"name": "Poison Puffcap", "set": "1", "id": "01PZ022"}
     ]
+  },
+  {
+    "title": "Ripper's Bay",
+    "text": "Add a [Ripper's Bay] card with an item",
+    "cards": [
+      {"name": "Ripper's Bay", "set": "4", "id": "04BW009"}
+    ]
   }
 ]
