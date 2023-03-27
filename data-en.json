@@ -296,5 +296,10 @@
     "cards": [
       {"name": "Ripper's Bay", "set": "4", "id": "04BW009"}
     ]
+  },
+  {
+    "title": "Marai Greatmother",
+    "text": "Buy 6+ cost Spell with Chalice of Harmony item(-3 cost) for 100 gold. ",
+    "cards": []
   }
 ]
